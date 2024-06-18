@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Benevolent Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://dararaet.com/ASLNP
+Data file = /home/dararaetcom/public_html/ASLNP/wp-content/uploads/rara-demo-pack/benevolent-demo-content/content/benevolent.xml
+Widget file = /home/dararaetcom/public_html/ASLNP/wp-content/uploads/rara-demo-pack/benevolent-demo-content/content/benevolent.wie
+Customizer file = /home/dararaetcom/public_html/ASLNP/wp-content/uploads/rara-demo-pack/benevolent-demo-content/content/benevolent.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+---Importing content---
+
+Max execution time after content import = 300
+
+---Importing widgets---
+Right Sidebar : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+RARA: Featured Post - No Title - Imported
+RARA: Recent Post - Recent Posts - Imported
+Calendar - No Title - Imported
+Tag Cloud - Tags - Imported
+
+Footer One : 
+
+Navigation Menu - Donate - Imported
+
+Footer Two : 
+
+Navigation Menu - About Us - Imported
+
+Footer Three : 
+
+Navigation Menu - Privacy - Imported
+
+Footer Four : 
+
+RARA: Social Links - Social Media - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---rrdi/after_import---
+
